@@ -17,7 +17,7 @@ INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, k
 
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Chase', 'Greyhound', '08865', 75, 100, 100, 100, 75, 100, 25, 25, 75, '1greyhound.png');
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Toby', 'Greyhound', '12909', 75, 100, 100, 100, 75, 100, 25, 25, 75, '2greyhound.png');
-INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Chase', 'Greyhound', '07489', 75, 100, 100, 100, 75, 100, 25, 25, 75, '3greyhound.png');
+INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Buster', 'Greyhound', '07489', 75, 100, 100, 100, 75, 100, 25, 25, 75, 'greyhound.png');
 
 
 INSERT INTO Dogs (owner_name, breed, location, shedding, energy, trainability, kid, groom, drool, bark, independence, weight, image) VALUES ('Stella', 'Maltese', '19092', 25, 50, 75, 50, 25, 25, 25, 0, 0, '1maltese.png', '');
