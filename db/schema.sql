@@ -1,5 +1,5 @@
-create database sdyeksdp5nh5lxf7;
-use sdyeksdp5nh5lxf7;
+create database xn471csvpther0tq;
+use xn471csvpther0tq;
 
 
 CREATE TABLE ownerdata
