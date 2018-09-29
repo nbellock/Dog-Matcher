@@ -1,5 +1,5 @@
-create database xn471csvpther0tq;
-use xn471csvpther0tq;
+create database dogspotter;
+use dogspotter;
 
 
 CREATE TABLE ownerdata
