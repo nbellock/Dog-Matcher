@@ -1,5 +1,5 @@
-create database dogspotter;
-use dogspotter;
+-- create database dogspotter;
+-- use dogspotter;
 
 
 CREATE TABLE ownerdata
